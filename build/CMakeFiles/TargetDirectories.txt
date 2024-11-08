@@ -1,0 +1,3 @@
+/mnt/c/Users/davil/OneDrive/Documentos/VSCodeProjetos/dcc012_aula0/build/CMakeFiles/hello.dir
+/mnt/c/Users/davil/OneDrive/Documentos/VSCodeProjetos/dcc012_aula0/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/davil/OneDrive/Documentos/VSCodeProjetos/dcc012_aula0/build/CMakeFiles/rebuild_cache.dir
